@@ -1,0 +1,15 @@
+#byte-compiled /cache files
+__pycache__/
+*.py[cod]
+
+#vs code settings
+.vscode/
+
+#environment files
+.environment
+#jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+#os files
+.DS_Store
+Thumbs.db
